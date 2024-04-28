@@ -7,3 +7,20 @@ body{
     background: rgba(173, 148, 6, 0.514);
 }
 
+#cronometro{
+    width: 1200px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    display: flex;
+}
+
+#buttons {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    display: flex;
+}
